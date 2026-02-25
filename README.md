@@ -3,10 +3,6 @@
 
 Project for submission to PROPOR 2026 — Portuguese Sentiment Analysis with Open-Source LLMs: Models, Prompts, and Efficient Deployment
 
-## Important Notice - Anonymous Submission
-
-The authors of this project declare that, if the work is accepted for presentation at PROPOR 2026, all source code and associated materials will be made publicly available on an official GitHub account identified by the authors, ensuring the transparency and reproducibility of the research. In this submission, the account is configured to maintain the anonymity of the authors according to the event's guidelines.
-
 ## Inference Code
 
 This repository contains the code responsible for the inference process of the model developed for the project. It is available in the `/scripts` folder.
