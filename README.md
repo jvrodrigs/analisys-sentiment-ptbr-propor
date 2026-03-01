@@ -140,4 +140,4 @@ Sampling was stratified by dataset: we selected 1,000 examples from each (totali
 
 ## Contact
 
-Due to anonymous submission, the authors are not identified in this repository. For inquiries or contact, please use the official PROPOR 2026 channels.
+João V R J Lima - jvrodrigs@gmail.com
